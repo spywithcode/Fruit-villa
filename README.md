@@ -1,2 +1,13 @@
-# fruit-villa
-this is a fruit website and made this education purpose and enjoy my frontend journey.
+# Responsive Fruit Website 🎃
+### Responsive Fruit Website 🎃
+
+- Responsive fruit Website Using HTML, CSS & JavaScript.
+- Contains animations when scrolling.
+- It has three color designs (white and black)
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+Join the channel to see more videos like this. [SpyWithCode](https://www.youtube.com/channel/UCCCPwtWw3wyMfWyBH116qCg)
+
+![fruit](/preview.png)
